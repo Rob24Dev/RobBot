@@ -1,0 +1,5 @@
+name: RobBotV2
+version: '${project.version}'
+main: rob24dev.robbot.Main
+authors: [ Rob24Dev ]
+description: Plugin by Rob24Dev
